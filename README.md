@@ -8,7 +8,7 @@ This repository contains the following files:
 - [run_exp_sup.py](run_exp_sup.py) contains the code to reproduce the experiment presented in Figure 4 of the Supplementary Material.
 - [algo_tools.py](algo_tools.py) contains the functions called in the above scripts to implement the algorithms ISI-CombUCB1, CombUCB1, Oracle Greedy, and the two Calibration Sequence approaches.
 - [data_tools.py](data_tools.py) contains the functions used to generate the instances of the Bernoulli LSD bandit we test.
-- [res](res) is the folder where graphs and data are saved.
+- res is the folder where graphs and data are saved.
 
 In order to run the experiment presented in Section 4 of the paper, run the following command (~1min):
 ```python
@@ -23,4 +23,4 @@ To run the additional experiment presented in Figure 4 of the Supplementary Mate
 $ python run_exp_sup.py
 ```
 
-The plots generated are saved in the [res](res) folder.
+The plots generated are saved in the res folder.
