@@ -1,6 +1,6 @@
 # LSD_bandits
 
-This repository contains the code to reproduce the experiments presented in the paper [_"Break your Bandit Routine with LSD Rewards: a Last Switch Dependent Analysis of Satiation and Seasonality"_](https://arxiv.org/abs/2110.11819) by Laforgue et al. (2021).
+This repository contains the code to reproduce the experiments presented in the paper [_"A Last Switch Dependent Analysis of Satiation and Seasonality in Bandits"_](https://arxiv.org/abs/2110.11819) by Laforgue et al. (2021).
 
 
 This repository contains the following files:
